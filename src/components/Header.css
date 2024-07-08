@@ -1,0 +1,20 @@
+.header {
+    background-image: url('recipe.jpg'); /* Replace with your background image */
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header-content {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  
